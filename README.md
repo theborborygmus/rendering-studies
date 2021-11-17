@@ -1,4 +1,6 @@
 # rendering-studies
+Texture files are not included.
+
 ---pathtracing
 Example code of path tracing studies with probability distribution functions.
 
