@@ -3,7 +3,7 @@ Texture files are not included.
 
 ---pathtracing
 
-Example code of path tracing studies with probability distribution functions.
+Example code of path tracing studies using probability distribution functions.
 
 ---stereographic-projection
 
